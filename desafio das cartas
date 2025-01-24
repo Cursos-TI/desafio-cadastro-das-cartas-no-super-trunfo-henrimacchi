@@ -1,7 +1,24 @@
-#incude <stdio.h>
+#include <stdio.h>
 
 int main(){
-printf("jogo dos paises");
+printf("jogo dos paises \n");
 
-}
+int populacao = 10
+int; area = 281
+int pib = 581
+int pontos turisticos = 10
+
+printf("%d" populacao);
+scanf("%d", &populacao);
+
+printf("%d" area);
+scanf("%d", &area);
+
+printf("%d" pib);
+scanf("%d", &pib);
+
+printf("%d" Pontos turisticos);
+scanf("%d", &pontos turisticos);
+
+return 0;
 }
