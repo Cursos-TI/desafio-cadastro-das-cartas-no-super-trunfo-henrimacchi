@@ -1,24 +1,32 @@
 #include <stdio.h>
 
-int main(){
-printf("jogo dos paises \n");
+int main (){
 
-int populacao = 10
-int; area = 281
-int pib = 581
-int pontos turisticos = 10
+int codigo de cidade;
+char nome [25];
+int populacao;
+float area;
+double PIB;
+int pontos turisticos;
 
-printf("%d" populacao);
+scanf("%d", &cidade);
+printf("cidade: "%d", cidade);
+
+scanf("%s", &nome[25]);
+printf("nome: "%d", nome);
+
 scanf("%d", &populacao);
+printf("populacao: "%d", populacao);
 
-printf("%d" area);
-scanf("%d", &area);
+scanf("%f", &area);
+printf("area: "%f", area);
 
-printf("%d" pib);
-scanf("%d", &pib);
+scanf("%f", &PIB);
+printf("PIN "%f", PIB);
 
-printf("%d" Pontos turisticos);
 scanf("%d", &pontos turisticos);
+printf("pontos turisticos "%d", pontos turisticos);
 
 return 0;
+
 }
